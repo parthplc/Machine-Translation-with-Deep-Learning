@@ -8,3 +8,9 @@ The complete code is made from scratch without python libraries and simply pytor
 
 This project is still updating so stay tuned for more!
 
+Paper Link : https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf
+
+Beau Score : 18.04
+
+Kaggle Link : https://www.kaggle.com/bunnyyy/medical-image-denoising-using-autoencoders
+
